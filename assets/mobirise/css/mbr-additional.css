@@ -1500,45 +1500,8 @@ body {
 .cid-r2taVz5gze .mbr-text {
   text-align: center;
 }
-.cid-r2taNzETCt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-r2taNzETCt .card-box {
-  padding: 0 2rem;
-}
-.cid-r2taNzETCt .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-r2taNzETCt .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-r2taNzETCt h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-r2taNzETCt p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-r2taNzETCt .mbr-text {
-  color: #767676;
-}
-.cid-r2taNzETCt .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-r2taNzETCt .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-r2taVz5gze P {
+  text-align: right;
 }
 .cid-r3KdGSBGMz .navbar {
   background: #ffffff;
