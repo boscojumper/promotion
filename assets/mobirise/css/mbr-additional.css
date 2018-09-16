@@ -1390,7 +1390,7 @@ body {
   color: #ffffff;
 }
 .cid-r2taAGAnOw B {
-  color: #f9f295;
+  color: #ffffff;
 }
 .cid-r2taAGAnOw P {
   color: #ffffff;
@@ -1702,7 +1702,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ff7f9f;
 }
 .cid-r3KdGSBGMz button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1766,6 +1766,10 @@ body {
 .cid-r3KdGSBGMz .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-r3KdGSBGMz .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
+}
+.cid-r3KdGSBGMz .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r3KdGSBGMz .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
 }
 .cid-r3KdGSBGMz .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r3KdGSBGMz .collapsed .navbar-collapse.show .navbar-buttons {
@@ -1860,6 +1864,10 @@ body {
   .cid-r3KdGSBGMz .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r3KdGSBGMz .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-r3KdGSBGMz .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r3KdGSBGMz .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-r3KdGSBGMz .navbar-collapse.collapsing .navbar-buttons,
   .cid-r3KdGSBGMz .navbar-collapse.show .navbar-buttons {
