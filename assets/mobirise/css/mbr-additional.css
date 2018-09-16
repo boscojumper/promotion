@@ -2670,6 +2670,44 @@ body {
 .cid-r3KdGSBGMz .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-r3PnP5ERLJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-r3PnP5ERLJ .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-r3PnP5ERLJ .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-r3PnP5ERLJ .plan-header,
+.cid-r3PnP5ERLJ .plan-body {
+  background-color: #fff;
+}
+.cid-r3PnP5ERLJ .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-r3PnP5ERLJ .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-r3PnP5ERLJ .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-r3PnP5ERLJ .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-r3PnP5ERLJ hr {
+  margin: 2rem 0;
+}
 .cid-r3KdGSBGMz .navbar {
   background: #ffffff;
   transition: none;
